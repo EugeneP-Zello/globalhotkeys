@@ -20,6 +20,9 @@
   ],
   "author": "Zello Inc",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/EugeneP-Zello/invalid-global-hotkeys-win/issues"
   },
